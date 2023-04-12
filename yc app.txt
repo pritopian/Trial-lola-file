@@ -1,52 +1,12 @@
-﻿Ycombinator Question: Describe what your company does in 50 characters or less.
-Founder Answer: Create mixtapes by shapeshifting web content
-
-
-Ycombinator Question: What is your company going to make? Please describe your product and what it does or will do.
-Founder Answer: Our lives’ biggest subroutine is to share/receive a link and be asked “what do you think?”. Most of the time they end up in a forgotten folder because the content is not in a format that engages with you. With Lola, users can shapeshift web content to a format they enjoy (whilst retaining the spirit of the creators’ message) to experience the internet on their terms. Content created by anyone is adapted by social bots that reflect users’ likes. Eg) Get a mixtape of articles from WSJ, Techcrunch and TMZ explained via memes and Gen Z lingo in Cardi B’s voice. Override content format limitations of platforms, and personalise content consumption.
-
-
-Ycombinator Question: Where do you live now, and where would the company be based after YC?
-Founder Answer: Santa Clara/San Francisco
-
-
-Ycombinator Question: Please provide some details of the cofounders in the startup.
-Founders must have at least 10% equity in the company.
-Founder Answer: Priyaa K
-
-
-Ycombinator Question:Are you a technical founder?* (Required)
-(You are a programmer, engineer, or scientist who can build the product without outside assistance.)
-Founder Answer:Yes, but I am looking for a more technical cofounder with domain expertise in ML & Differential Privacy. I am a generalist. 
-
-
-Ycombinator Question:How far along are you?
-Founder Answer:Prototype
-
-
-Ycombinator Question:How long have each of you been working on this? How much of that has been full-time? 
-Founder Answer:Currently part time, and planning to go full time in a couple of momths. I have been tinkering with a number of ideas for the past 3 months, and landed on this one this past few weeks after getting feedback from a selected set of test users.
-
-
-Ycombinator Question:Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
-Founder Answer:This idea is a culmination of my learnings from building AI powered content creation tools at Microsoft, Snap and building digital public goods to enable private data sharing for model training as part of India Stack [iSpirt].
-
-
-AI powered Content Creation:
+Lola helps create mixtapes by shapeshifting web content. Our lives’ biggest subroutine is to share/receive a link and be asked “what do you think?”. Most of the time they end up in a forgotten folder because the content is not in a format that engages with you. With Lola, users can shapeshift web content to a format they enjoy (whilst retaining the spirit of the creators’ message) to experience the internet on their terms. Content created by anyone is adapted by social bots that reflect users’ likes. Eg) Get a mixtape of articles from WSJ, Techcrunch and TMZ explained via memes and Gen Z lingo in Cardi B’s voice. Override content format limitations of platforms, and personalise content consumption. I am looking for a more technical cofounder with domain expertise in ML & Differential Privacy. I am a generalist. This idea is a culmination of my learnings from building AI powered content creation tools at Microsoft, Snap and building digital public goods to enable private data sharing for model training as part of India Stack [iSpirt]. AI powered Content Creation:
 The goal of content creation tools has put the burden of audience engagement on the creator. Realistically, no matter what AI powers supercharge UGC/publishers, broadcasted content remains impersonal for consumers. Lola flips this. Creators curate the content, Lola creates shapeshifts it to different formats without diluting the creator's message to broaden reach, engagement and make everything more fun. The mixtapes replace social media feeds.
-
-
 Privacy Focused Social Network Monetization:
 Personalization of content consumption cannot be achieved without using private data to train models. However, current social networks enforce vendor lock in and force users into one social feed algorithm. Lola host the privacy focused compute environment where users own their interest graph and personal data; they can share their data with any model provider:
 a) For model training and earn dividends 
 b) For personalising their social feeds and receiving specific services
 Lola will earn a percentage from the data exchange transactions. 
 Current social media companies are entrenched in their ad based models, making it hard to switch. But, I see data portability as a feature in social networks, a plus for consumers and model developers alike; specifically with laws that are emerging in countries like India that empower citizens with data ownership.
-
-
-Ycombinator Question:How do or will you make money? How much could you make?
-(We realize you can't know precisely, but give your best estimate.)
-Founder Answer:There are three primary income streams, each to be realised at different stages of the company [In the order of precedence]:
+There are three primary income streams, each to be realised at different stages of the company [In the order of precedence]:
 
 
 Mixtape Tools for Consumers:
@@ -57,8 +17,7 @@ Monetization Marketplace for User Data with Privacy Guarantees
 Marketplace to trade personal data for model training or for specific personalization modes with Lola taking % for facilitating the data exchange with privacy guarantees.
 
 
-Ycombinator Question:Who are your competitors? What do you understand about your business that they don't?
-Founder Answer:Right now the capabilities embedded in creating the mixtape are provided individually by different new age startups. 
+Right now the capabilities embedded in creating the mixtape are provided individually by different new age startups. 
 The social experience of creating and sharing mixtapes don’t exist in social media platforms
 
 
@@ -69,123 +28,3 @@ Secondly, every platform is focused on ad based models (selling user data) or tr
 Giving users the ability to own their interest graph, personal data and mixtape feed.
 Receive dividends from sharing it for model training with privacy guarantees
 Providing model developers a way to create custom models and sell it to both business and consumer users of Lola.
-
-
-Ycombinator Question:If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
-Founder Answer:-Platform for differential privacy as a service.
-
-
-My work with India Stack is about creating a level playing field for data modellers to compete with data monopolies. The way we are doing that is by building public digital goods to enable proprietary data sharing at scale with privacy guarantees using confidential clean rooms. Governments around the world are going to introduce regulation to empower citizens with data ownership, that makes data privacy and data portability a must for system design. This makes the market ripe for a platform that helps enterprises of all sizes combine the power of LLMs with proprietary data, with user consent honoured and privacy guarantees retained through the data exchange value chain. The platform will host the environment for data exchange with privacy guarantees as a service. End users/enterprises will have the power to monetize their data with any ML modeller and can earn dividends/receive services. My knowledge here is on the product/policy side, and would be interested to dive deep with someone with a cyptography/differential privacy background.
-
-
-Question’s from Ycombinator
-	Lola
-	Describe what your company does in 50 characters or less.
-
-
-	Create mixtapes by shapeshifting web content
-	If you have a demo, attach it below.
-Anything that shows us how the product works. Please limit it to 3 minutes / 100 MB.
-	
-
-	What is your company going to make? Please describe your product and what it does or will do.
-	Our lives’ biggest subroutine is to share/receive a link and be asked “what do you think?”. Most of the time they end up in a forgotten folder because the content is not in a format that engages with you. With Lola, users can shapeshift web content to a format they enjoy (whilst retaining the spirit of the creators’ message) to experience the internet on their terms. Content created by anyone is adapted by social bots that reflect users’ likes. Eg) Get a mixtape of articles from WSJ, Techcrunch and TMZ explained via memes and Gen Z lingo in Cardi B’s voice. Override content format limitations of platforms, and personalise content consumption.
-	Where do you live now, and where would the company be based after YC?
-	Santa Clara/San Francisco
-	Please provide some details of the cofounders in the startup.
-Founders must have at least 10% equity in the company.
-	Priyaa K
-	Email
-
-
-	priyaa93@gmail.com
-	Phone number:
-	+1-857-205-337
-	Linkedin URL
-	https://www.linkedin.com/in/priyaak
-	Are you a technical founder?* (Required)
-(You are a programmer, engineer, or scientist who can build the product without outside assistance.)
-	Yes, but I am looking for a more technical cofounder with domain expertise in ML & Differential Privacy. I am a generalist. 
-	Age
-	29
-	Please record a one minute video introducing the founder(s).
-	
-
-	How far along are you?
-
-
-	Prototype
-	How long have each of you been working on this? How much of that has been full-time? 
-	Currently part time, and planning to go full time in a couple of momths. I have been tinkering with a number of ideas for the past 3 months, and landed on this one this past few weeks after getting feedback from a selected set of test users.
-	Please explain.
-Are people using your product?
-
-
-	No
-	Do you have revenue?
-
-
-
-
-	No
-	If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
-	No
-	If you have already participated or committed to participate in an incubator, "accelerator" or "pre-accelerator" program, please tell us about it.
-
-
-	No
-	Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
-	This idea is a culmination of my learnings from building AI powered content creation tools at Microsoft, Snap and building digital public goods to enable private data sharing for model training as part of India Stack [iSpirt].
-
-
-AI powered Content Creation:
-The goal of content creation tools has put the burden of audience engagement on the creator. Realistically, no matter what AI powers supercharge UGC/publishers, broadcasted content remains impersonal for consumers. Lola flips this. Creators curate the content, Lola creates shapeshifts it to different formats without diluting the creator's message to broaden reach, engagement and make everything more fun. The mixtapes replace social media feeds.
-
-
-Privacy Focused Social Network Monetization:
-Personalization of content consumption cannot be achieved without using private data to train models. However, current social networks enforce vendor lock in and force users into one social feed algorithm. Lola host the privacy focused compute environment where users own their interest graph and personal data; they can share their data with any model provider:
-* a) For model training and earn dividends 
-* b) For personalising their social feeds and receiving specific services
-Lola will earn a percentage from the data exchange transactions. 
-Current social media companies are entrenched in their ad based models, making it hard to switch. But, I see data portability as a feature in social networks, a plus for consumers and model developers alike; specifically with laws that are emerging in countries like India that empower citizens with data ownership.
-	Who are your competitors? What do you understand about your business that they don't?
-	Right now the capabilities embedded in creating the mixtape are provided individually by different new age startups. 
-The social experience of creating and sharing mixtapes don’t exist in social media platforms
-
-
-Everyone in the social media & consumer world is solving the problem of content creation - giving creators AI power to supercharge UGC. With Lola, I want to flip that. Anyone can create/reference information - and Lola bots will personalize consumption based on the consumer preferences and broaden reach and  engagement.
-
-
-Secondly, every platform is focused on ad based models (selling user data) or trying to veer into subscription models. Lola will focus on evolving the product into a marketplace where users can trade personal data with privacy guarantees:
-* Giving users the ability to own their interest graph, personal data and mixtape feed.
-* Receive dividends from sharing it for model training with privacy guarantees
-* Providing model developers a way to create custom models and sell it to both business and consumer users of Lola.
-	How do or will you make money? How much could you make?
-(We realize you can't know precisely, but give your best estimate.)
-
-
-	There are three primary income streams, each to be realised at different stages of the company [In the order of precedence]:
-
-
-1. Mixtape Tools for Consumers:
-   1. Put specific content shapeshifting tools and modes behind the paywall
-2. Mixtape Tools for Business:
-   1. Combine private data with personal data to deliver hyper-personalised mixtapes 
-3. Monetization Marketplace for User Data with Privacy Guarantees
-   1. Marketplace to trade personal data for model training or for specific personalization modes with Lola taking % for facilitating the data exchange with privacy guarantees.
-	 Where will most of your initial users be located?
-	US/India
-	If you have not formed the company yet, describe the planned equity ownership breakdown among the founders, employees and any other proposed stockholders. If there are multiple founders, be sure to give the proposed equity ownership of each founder and founder title (e.g. CEO).
-(This question is as much for you as us.)
-
-
-	Cofounders joining aboard will have equal equity splits with me [50-50]. I see them as partners working towards a complete part of the puzzle I am building. Currently, I am looking for a cofounder that is technical with experience in Deep Learning and Differential Privacy/Federated Model Training. 
-
-
-Currently there are no cofounders. In conversations with a few folks.
-	If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
-	-Platform for differential privacy as a service.
-
-
-My work with India Stack is about creating a level playing field for data modellers to compete with data monopolies. The way we are doing that is by building public digital goods to enable proprietary data sharing at scale with privacy guarantees using confidential clean rooms. Governments around the world are going to introduce regulation to empower citizens with data ownership, that makes data privacy and data portability a must for system design. This makes the market ripe for a platform that helps enterprises of all sizes combine the power of LLMs with proprietary data, with user consent honoured and privacy guarantees retained through the data exchange value chain. The platform will host the environment for data exchange with privacy guarantees as a service. End users/enterprises will have the power to monetize their data with any ML modeller and can earn dividends/receive services. My knowledge here is on the product/policy side, and would be interested to dive deep with someone with a cyptography/differential privacy background.
-	1.
